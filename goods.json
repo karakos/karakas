@@ -1,0 +1,31 @@
+{
+  "Apple" :{
+   "name": "apples" ,
+   "cost":  15.5,
+   "Description": "mm delicious" ,
+   "order":  3,
+   "image": "apple.png" 
+   },  
+   "Grape" :{
+    "name": "grapes",
+    "cost": 20.2,
+    "Description": "mm tasty" ,
+    "order": 2,
+    "image": "grape.png"
+    },
+    "Watermelon" :{
+    "name":  "watermelon",
+    "cost": 3.33 ,
+    "Description": "mm juicy" ,
+    "order":  1,
+    "image": "watermelon.png"
+    },
+    "Cherry" :{
+    "name": "cherry" ,
+    "cost": 17.7,
+    "Description": "mm sour" ,
+    "order": 4 ,
+    "image": "cherry.png"
+    }
+
+}
